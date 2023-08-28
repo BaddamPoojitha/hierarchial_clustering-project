@@ -18,4 +18,18 @@ As Datascience enigineer find out which hierarchy cluster gives maximum limkage 
 # Project Methodology
 ![image](https://github.com/BaddamPoojitha/hierarchial_clustering-project/assets/143176328/19b87778-2fd4-4cf3-adfc-c20154aa0ce1)
 
+# Conclusion:
+According to the model building as engineer my prediction is cluster NO.3 as give highest number of linkage.
+
+# Insights:
+1.Cluster 1 contains(Red) color which shows that unsupervised learning cluster has maximum euclidean distance from the centroid upto annual income approximate 139ks.
+
+2.Cluster 2 contains(Blue) color which shows that unsupervised learning cluster has maximum euclidean distance from the centroid upto annual income approximate 79-80ks.
+
+3.Cluster 3 contains(Green) color which shows that unsupervised learning cluster has maximum euclidean distance from the centroid upto annual income approximate 139ks.
+
+4.Cluster 4 contains(Cyan) color which shows that unsupervised learning cluster has maximum euclidean distance from the centroid upto annual income approximate 39-40ks.
+
+5.Cluster 5 contains(Pink) color which shows that unsupervised learning cluster has maximum euclidean distance from the centroid upto annual income approximate 40-41ks.
+
 
